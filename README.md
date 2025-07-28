@@ -19,3 +19,5 @@ The honeynet architecture consists of:
 * Azure Key Vault
 * Azure Storage Account
 * Microsoft Sentinel
+
+Initially, all resources were exposed to the internet, the security groups, and vm firewalls were set to allow all traffic. Afterwards, the all public traffic was blocked with the exception of my personal computer.
