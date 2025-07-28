@@ -21,3 +21,8 @@ The honeynet architecture consists of:
 * Microsoft Sentinel
 
 Initially, all resources were exposed to the internet, the security groups, and vm firewalls were set to allow all traffic. Afterwards, the all public traffic was blocked with the exception of my personal computer.
+
+## Attack Maps before Hardening
+<img width="1918" height="1019" alt="image" src="https://github.com/user-attachments/assets/d36d37e1-51ea-4b17-95d6-e1b6bc706526" />
+<img width="1919" height="1015" alt="image" src="https://github.com/user-attachments/assets/bd2ee774-f481-462f-8d4e-ef9df47cb650" />
+
