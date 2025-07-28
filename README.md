@@ -1,6 +1,7 @@
 # Azure-Hnypot
 
-<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/e91f03c7-28fc-4c99-981c-e6b15bd409e2" />
+<img width="700" height="430" alt="diagram" src="https://github.com/user-attachments/assets/8ead6108-e3fb-48a4-b262-23a8182ac517" />
+
 
 ## Introduction
 In this project, a honeypot was created in Azure in order to capture and analyze logs from multiple sources into a Log Analytics Workspace using Microsoft Sentinel to build attack maps, trigger alerts, and create incidents. Security metrics were measured in the exposed environment for 24hrs, security controls were implemented to harden the environment, then measured again. The metrics involved are:
