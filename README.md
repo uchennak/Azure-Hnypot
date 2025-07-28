@@ -22,7 +22,20 @@ The honeynet architecture consists of:
 
 Initially, all resources were exposed to the internet, the security groups, and vm firewalls were set to allow all traffic. Afterwards, the all public traffic was blocked with the exception of my personal computer.
 
-## Attack Maps before Hardening
-<img width="1918" height="1019" alt="image" src="https://github.com/user-attachments/assets/d36d37e1-51ea-4b17-95d6-e1b6bc706526" />
-<img width="1919" height="1015" alt="image" src="https://github.com/user-attachments/assets/bd2ee774-f481-462f-8d4e-ef9df47cb650" />
+## Attack Maps before hardening
+<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/d36d37e1-51ea-4b17-95d6-e1b6bc706526" />
+<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/bd2ee774-f481-462f-8d4e-ef9df47cb650" />
+<img width="800" height="500" alt="mssql pre hardening" src="https://github.com/user-attachments/assets/a1949b0b-a5ac-48e3-8869-a35751f98b26" />
+<img width="800" height="500" alt="linux ssh pre hardening" src="https://github.com/user-attachments/assets/1ea8ab0e-83a3-4d77-be32-1e86302da88c" />
+
+## Attack Maps after hardening
+No results were returned by any map queries, as there were no instances of malicious activity during the 24-hour period after the hardening.
+<img width="850" height="550" alt="rdp post hardening" src="https://github.com/user-attachments/assets/0a58e5b7-0aea-4de3-a280-452e40c3d86a" />
+<img width="850" height="550" alt="nsg malicious post hardening" src="https://github.com/user-attachments/assets/6d951b8e-c204-4fd0-824e-a63ee7a048e7" />
+<img width="850" height="550" alt="mssql post hardening" src="https://github.com/user-attachments/assets/b8b075f5-fa43-470c-91b6-6c0b9ceda4a1" />
+<img width="850" height="550" alt="linux ssh post hardening" src="https://github.com/user-attachments/assets/13945803-80e7-431c-a4fc-e52f3ac2385a" />
+
+
+
+
 
