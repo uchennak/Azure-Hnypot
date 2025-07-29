@@ -1,6 +1,7 @@
 # Azure-Hnypot
 
-<img width="700" height="430" alt="diagram" src="https://github.com/user-attachments/assets/8ead6108-e3fb-48a4-b262-23a8182ac517" />
+<img width="700" height="430" alt="image" src="https://github.com/user-attachments/assets/78c6b7cd-0c4a-4961-9928-73955f5c666a" />
+
 
 
 ## Introduction
